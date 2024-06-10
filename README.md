@@ -81,8 +81,6 @@
 > 하지만 알약이라는 특성상 100%에 가까운 신뢰도가 필요한데, 이를 달성하지 못한데에 아쉬움이 존재한다.
 
 > [프로젝트 상세 설명 및 리포지토리] (https://github.com/iamrosy20/WASSUP_Project2_team6)
->
-> [프로젝트 서비스 부분 리포지토리] (https://github.com/GuhyupLee/pill-identifier)
 
 <br />
 	
